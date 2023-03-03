@@ -1,6 +1,6 @@
 # Vaadin Flow 24 Spring Security login
 
-Source code for the YouTube tutorial video: https://youtu.be/4Dm1308EwL8
+Source code for the YouTube tutorial video: https://youtu.be/dZuy1v9isXE
 
 ## Requirements
 
